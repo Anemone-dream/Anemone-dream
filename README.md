@@ -2,6 +2,9 @@
 
 I`m 银莲花之梦
 welcome to my github page
+hello everyone!
+nice to meet you
+I’m currently learning maths
 
 <!--
 **Anemone-dream/Anemone-dream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
